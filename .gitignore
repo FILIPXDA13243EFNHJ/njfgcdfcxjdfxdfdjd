@@ -1,5 +1,2 @@
 
-framework.jar
-miui-framework.jar
-miui-services.jar
-services.jar
+*.jar
